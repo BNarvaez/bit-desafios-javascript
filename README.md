@@ -8,7 +8,7 @@
 
 ----
 
-En este repositorio estaran alojados todos los desafios que realizamos usando JavaScript.
+En este repositorio estaran alojados todos los desafíos que realizamos usando JavaScript.
 
 ---
 *** Autor: Brayan Narvaez ***
