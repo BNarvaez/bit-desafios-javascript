@@ -18,3 +18,4 @@ function comparar(a){
 comparar(-2);
 comparar(2);
 comparar(0);
+

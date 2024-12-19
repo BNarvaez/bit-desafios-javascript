@@ -4,7 +4,7 @@
 1. Crear repositorio llamado: bit-desafios-javascript
 2. Crear un archivo script por cada desafío llamado: scriptN.js
 3. Archivo README.md
-4. Fecha de entrega: Viernes 29 de Nov 2024
+4. Fecha de entrega: Jueves 19 de Dic 2024
 
 ----
 
